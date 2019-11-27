@@ -1,0 +1,123 @@
+
+
+*{
+	margin: 0px;
+	padding: 0px;
+	text-decoration: none;
+}
+
+
+#main_regis{
+	width: 600px;
+	background-color: white;
+	margin: 100px auto;
+
+}
+
+#main_regis h1{
+	text-align: center;
+	display: block;
+	padding-top: 20px;
+}
+
+#main_regis h2{
+	text-align: center;
+	display: block;
+	color: red;
+	font-weight: bold;
+	font-size: 50px;
+	padding-top: 20px;
+}
+
+#main_regis img{
+
+	margin: 20px auto;
+	width: 80px;
+	height: 80px;
+	border-radius: 100%;
+	display: block;
+}
+
+.main_form{
+	width: 70%;
+	margin: auto;
+}
+
+.main_form table tr td #input_value{
+	width: 100%;
+	margin-left: 15px;
+	margin-top: 10px;
+	padding: 8px;
+}
+
+.main_form table tr td span{
+	font-weight: bold;
+}
+
+.main_form table tr td #log-in{
+
+	color: white;
+	font-weight: bold;
+	background-color: #187E11;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 8px;
+	margin-left: 10px;
+	width: 120px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.main_form table tr td #register-btn{
+
+	margin-left: 15px;
+	width: 120px;
+	color: white;
+	font-weight: bold;
+	background-color: #B70076;
+	display: inline-block;
+	margin-top: 10px;
+	padding: 8px;
+	cursor: pointer;
+}
+
+.main_form table tr td #sign-up{
+	width: 113%;
+	color: white;
+	font-weight: bold;
+	background-color: #B70076;
+	margin-top: 40px;
+	padding: 8px;
+	margin-left: 10px;
+	margin-bottom: 0px;
+	cursor: pointer;
+}
+
+.main_form table tr td #back-btn{
+	width: 50%;
+	color: white;
+	font-weight: bold;
+	background-color: #5C4056;
+	padding: 8px;
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 20px;
+	cursor: pointer;
+}
+
+.main_form table tr td #log-out{
+	width: 100px;
+	color: white;
+	font-weight: bold;
+	background-color: #5C4056;
+	padding: 8px;
+	margin: 20px 154px;
+	display: block;
+	cursor: pointer;
+}
+
+.main_form input #imglink{
+
+	text-align: center;
+	padding-left: 20px;
+}
